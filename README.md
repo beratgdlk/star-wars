@@ -1,6 +1,6 @@
 
 
-### Star Wars Characters App - Professional Project README
+### Star Wars Cha
 
 # Star Wars Characters App
 

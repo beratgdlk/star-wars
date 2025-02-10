@@ -1,7 +1,3 @@
-
-
-### Star Wars Cha
-
 # Star Wars Characters App
 
 Welcome to the **Star Wars Characters App**, an engaging application that allows users to explore the Star Wars universe and learn more about their favorite characters. Built with React and powered by the Star Wars API (SWAPI), this project provides an immersive experience for Star Wars enthusiasts.

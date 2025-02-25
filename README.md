@@ -1,5 +1,4 @@
 # Star Wars Characters
-
 A simple JavaScript project that showcases filtering functionality using **HTML, CSS, and JavaScript**. This project provides an interactive way to browse and filter Star Wars characters dynamically.
 
 ## Features
